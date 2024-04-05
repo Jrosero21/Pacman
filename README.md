@@ -1,4 +1,5 @@
 Pacman Game
+
 Welcome to the Pacman Game! This web application allows you to add Pacman characters to the screen and start a game where the Pacman moves randomly within the screen, bouncing off the borders.
 
 Features
